@@ -4,7 +4,7 @@ import "./styles.css";
 const Footer = () => {
   return (
     <footer>
-      <p className="footer_p">coded with love by Pedro</p>
+      <p className="footer_p">coded with love by StratosHF</p>
     </footer>
   );
 };
