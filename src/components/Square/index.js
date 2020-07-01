@@ -1,10 +1,10 @@
-import React, { Fragment } from "react";
+import React from "react";
 import "./styles.css";
 
-const Square = () => {
-  return (
-    <Fragment>Square</Fragment>
+const Square = ({value, handleClick}) => (
+    <button onClick={handleClick}>
+        {value}
+    </button>
   );
-};
 
 export default Square;
