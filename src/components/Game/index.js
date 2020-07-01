@@ -1,10 +1,25 @@
-import React, { Fragment } from "react";
+import React from "react";
+import Board from "../Board"
+
 import "./styles.css";
 
 const Game = () => {
+
+  const handleClick = () => {
+        
+  }
+
+  // const jumpTo = () => {
+        
+  // }
+  
+  // const renderMoves = () => {
+      
+  // }
+  
   return (
-    <Fragment>Game</Fragment>
-  );
-};
+      <Board onClick={handleClick} />
+  )
+}
 
 export default Game;
