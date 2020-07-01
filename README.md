@@ -1,4 +1,4 @@
-# This is a react template you can use for most react apps
+# This is a tic tac toe application
 
 ## Available Scripts
 
