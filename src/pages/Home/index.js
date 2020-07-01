@@ -1,11 +1,11 @@
 import React from "react";
 import "./styles.css";
+import Game from "../../components/Game"
 
 const Home = () => {
   return (
     <main>
-      <h1>home</h1>
-      <p>this is the random text at middles that you asked for</p>
+      <Game/>
     </main>
   );
 };
