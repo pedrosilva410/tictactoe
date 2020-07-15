@@ -2,7 +2,7 @@ import React from "react";
 import "./styles.css";
 
 const Square = ({value, onClick}) => (
-    <button onClick={onClick}>
+    <button className="square" onClick={onClick}>
         {value}
     </button>
   );
