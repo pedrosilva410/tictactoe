@@ -1,0 +1,24 @@
+.home__title {
+  font-size: 60px;
+  margin-bottom: 32px;
+}
+
+.home__text {
+  font-size: 17px;
+  margin-bottom: 8px;
+}
+
+.playButton{
+  margin: 10px;
+  padding: 10px 36px;
+  border-style: none;
+  border: black 1px solid;
+}
+
+.playButton:hover {
+  border: white 1px solid;
+  color: white;
+  background-color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
