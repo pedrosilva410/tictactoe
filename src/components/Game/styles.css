@@ -3,4 +3,14 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    width: 300px;
+    height: 100%;
+}
+
+.turnText{
+    font-size:30px;
+}
+
+.restartGameBtn{
+    font-size: 24px;
 }

@@ -16,6 +16,7 @@ input {
   border-style: none;
   border: none;
   border-bottom: black 1px solid;
+  outline: none;
 }
 
 button {
