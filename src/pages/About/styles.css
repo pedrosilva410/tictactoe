@@ -1,0 +1,11 @@
+.about__title {
+  font-size: 60px;
+  margin-bottom: 32px;
+}
+
+.about__text {
+  font-size: 17px;
+  margin-bottom: 8px;
+  width: 500px;
+  text-align: justify;
+}
